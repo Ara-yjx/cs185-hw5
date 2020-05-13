@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cs185-hw5/static/css/main.22d1c8a9.chunk.css",
+    "main.js": "/cs185-hw5/static/js/main.d4b92ab4.chunk.js",
+    "main.js.map": "/cs185-hw5/static/js/main.d4b92ab4.chunk.js.map",
+    "runtime-main.js": "/cs185-hw5/static/js/runtime-main.99f3ba14.js",
+    "runtime-main.js.map": "/cs185-hw5/static/js/runtime-main.99f3ba14.js.map",
+    "static/css/2.69121389.chunk.css": "/cs185-hw5/static/css/2.69121389.chunk.css",
+    "static/js/2.c2f471ef.chunk.js": "/cs185-hw5/static/js/2.c2f471ef.chunk.js",
+    "static/js/2.c2f471ef.chunk.js.map": "/cs185-hw5/static/js/2.c2f471ef.chunk.js.map",
+    "index.html": "/cs185-hw5/index.html",
+    "precache-manifest.a3237d248ec4d46aa6ef3ec83f168709.js": "/cs185-hw5/precache-manifest.a3237d248ec4d46aa6ef3ec83f168709.js",
+    "service-worker.js": "/cs185-hw5/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/cs185-hw5/static/css/2.69121389.chunk.css.map",
+    "static/css/main.22d1c8a9.chunk.css.map": "/cs185-hw5/static/css/main.22d1c8a9.chunk.css.map",
+    "static/js/2.c2f471ef.chunk.js.LICENSE.txt": "/cs185-hw5/static/js/2.c2f471ef.chunk.js.LICENSE.txt",
+    "static/media/5_centimeters.jpg": "/cs185-hw5/static/media/5_centimeters.d127a2bc.jpg",
+    "static/media/IMG_0898.JPG": "/cs185-hw5/static/media/IMG_0898.2028fa4e.JPG",
+    "static/media/IMG_2661.GIF": "/cs185-hw5/static/media/IMG_2661.ce344b1b.GIF",
+    "static/media/IMG_6102.GIF": "/cs185-hw5/static/media/IMG_6102.7d7d94b0.GIF",
+    "static/media/IMG_7554.GIF": "/cs185-hw5/static/media/IMG_7554.edd55572.GIF",
+    "static/media/IMG_7555.GIF": "/cs185-hw5/static/media/IMG_7555.a01903db.GIF",
+    "static/media/IMG_7562.GIF": "/cs185-hw5/static/media/IMG_7562.a062c5ba.GIF",
+    "static/media/Owl-tries-on-hat.gif": "/cs185-hw5/static/media/Owl-tries-on-hat.87d9db98.gif",
+    "static/media/angry_owl.gif": "/cs185-hw5/static/media/angry_owl.2fa2ecd9.gif",
+    "static/media/giphy.gif": "/cs185-hw5/static/media/giphy.fefbeab7.gif",
+    "static/media/img.gif": "/cs185-hw5/static/media/img.a1dd68bc.gif",
+    "static/media/iphone-spinner-2.gif": "/cs185-hw5/static/media/iphone-spinner-2.c85f2ceb.gif",
+    "static/media/leon.jpg": "/cs185-hw5/static/media/leon.51e0f364.jpg",
+    "static/media/tenor.gif": "/cs185-hw5/static/media/tenor.567a81a6.gif",
+    "static/media/wandering_earth.jpg": "/cs185-hw5/static/media/wandering_earth.10bf0108.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f3ba14.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.c2f471ef.chunk.js",
+    "static/css/main.22d1c8a9.chunk.css",
+    "static/js/main.d4b92ab4.chunk.js"
+  ]
+}
